@@ -14,13 +14,9 @@ warnings.filterwarnings("ignore", category=UserWarning)
 
 
 
-# In[3]:
-
-
 df= pd.read_csv('Salary Data.csv')
 
 
-# In[4]:
 
 
 df.head()
